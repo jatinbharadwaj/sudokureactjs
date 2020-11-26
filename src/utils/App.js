@@ -59,7 +59,7 @@ const App = React.createClass({
 					Solve
 				</button>			
 				<div className='footnote'>
-					<p>by <a href='http://danialk.github.io/'> Danial Khosravi </a> </p>
+					<p>by <a href='http://jatinbharadwaj.github.io/'> Jatin Bhardwaj </a> </p>
 				</div>				
 			</div>
 
