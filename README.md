@@ -7,3 +7,5 @@ A sudoku app with ReactJS
     npm install
     npm run start
 ```
+
+![sudoku.gif](sudoku.gif)
