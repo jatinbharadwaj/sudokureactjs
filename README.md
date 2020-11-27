@@ -1,7 +1,9 @@
 # sudoku_reactjs
 A sudoku app with ReactJS
-TO run this project 
-download the repository and run
-``` npm install 
+### How to run this project 
+1. Download the repository and run
+2. Run commands on terminal or cmd
+```npm
+    npm install
     npm run start
 ```
